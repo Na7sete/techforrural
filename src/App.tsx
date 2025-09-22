@@ -6,6 +6,7 @@ import Features from './components/Features';
 import Impact from './components/Impact';
 import Venue from './components/Venue';
 import TravelInfo from './components/TravelInfo';
+import ParticipantInfo from './components/ParticipantInfo';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
@@ -20,6 +21,7 @@ function App() {
         <Impact />
         <Venue />
         <TravelInfo />
+        <ParticipantInfo />
         <Contact />
       </main>
       <Footer />

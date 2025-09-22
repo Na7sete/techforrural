@@ -39,6 +39,7 @@ const Footer: React.FC = () => {
               <li><a href="#experience" className="footer-link text-sm md:text-base">Experience</a></li>
               <li><a href="#voices" className="footer-link text-sm md:text-base">Partners</a></li>
               <li><a href="#venue" className="footer-link text-sm md:text-base">Venue</a></li>
+              <li><a href="#participant-info" className="footer-link text-sm md:text-base">Participant Info</a></li>
               <li><a href="#apply" className="footer-link text-sm md:text-base">Contact</a></li>
             </ul>
           </div>

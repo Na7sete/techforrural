@@ -31,6 +31,7 @@ const Header: React.FC = () => {
             <a href="#about" className="nav-link">Is this you?</a>
             <a href="#experience" className="nav-link">Experience</a>
             <a href="#voices" className="nav-link">Voices</a>
+            <a href="#participant-info" className="nav-link">Info</a>
             <a href="#apply" className="nav-link">Apply</a>
           </nav>
 
@@ -64,6 +65,7 @@ const Header: React.FC = () => {
               <a href="#experience" className="block px-4 py-2 nav-link" onClick={() => setMobileMenuOpen(false)}>Experience</a>
               <a href="#voices" className="block px-4 py-2 nav-link" onClick={() => setMobileMenuOpen(false)}>Partners</a>
               <a href="#venue" className="block px-4 py-2 nav-link" onClick={() => setMobileMenuOpen(false)}>Venue</a>
+              <a href="#participant-info" className="block px-4 py-2 nav-link" onClick={() => setMobileMenuOpen(false)}>Participant Info</a>
               <a href="#apply" className="block px-4 py-2 nav-link" onClick={() => setMobileMenuOpen(false)}>Contact</a>
             </nav>
           </div>
